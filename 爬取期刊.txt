@@ -1,0 +1,12 @@
+爬虫爬取期刊目录：
+APS: PRL, PRX, PRB,RMP
+AIP: APL, APR
+ELSEVIER: Acta Materialia, Carbon, Corrosion Science， Journal of Catalysis， Nanotoday
+ACS： JACS， NANO Letters， ACS NANO， ACS AMI， JPCL， JPCA， JPCB， JPCC
+AAAS：Science， Science Advances
+Nature， Nature communications， Nature materials， Nature nanotechnology
+Wiley：AFM， Angewandte chemie， Small， Advanced Materials Interfaces， Advanced Materials， Advanced Science
+PNAS
+Tribology_Letters
+
+共33种
